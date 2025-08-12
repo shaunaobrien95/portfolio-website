@@ -39,7 +39,7 @@ This portfolio website serves as both a learning project and a professional show
 
 ### HTML & Structure
 
-* Semantic HTML5 elements (<header>, <main>, <section>, <article>)
+* Semantic HTML5 elements (header, main, section, article etc.)
 * Proper document structure and hierarchy
 * Accessible markup with labels and form elements
 * Table creation and organization
@@ -79,12 +79,12 @@ This portfolio website serves as both a learning project and a professional show
 ## 📁 Project Structure
 
 portfolio-website/
-├── index.html          # Main HTML file
-├── README.md            # Project documentation
-└── assets/             # Future: images, icons, etc.
-    ├── css/            # Future: stylesheets
-    ├── js/             # Future: JavaScript files
-    └── images/         # Future: project images
+* index.html  # Main HTML file
+* README.md   # Project documentation
+* assets/  # Future: images, icons, etc.
+    - css/     # Future: stylesheets
+    - js/      # Future: JavaScript files
+    - images/  # Future: project images
 
 ## 🌱 Development Journey
 This project represents the beginning of my web development journey. Started with basic HTML knowledge covering:
